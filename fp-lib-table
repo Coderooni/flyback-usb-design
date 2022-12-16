@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Custom Switching ICs")(type "KiCad")(uri "${KIPRJMOD}/Custom Switching ICs.pretty")(options "")(descr ""))
+  (lib (name "EMI_Filters")(type "KiCad")(uri "${KIPRJMOD}/EMI_Filters.pretty")(options "")(descr ""))
+  (lib (name "Custom Connectors")(type "KiCad")(uri "${KIPRJMOD}/Custom Connectors.pretty")(options "")(descr ""))
+  (lib (name "Custom Transformer")(type "KiCad")(uri "${KIPRJMOD}/Custom Transformer.pretty")(options "")(descr ""))
+)

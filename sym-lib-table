@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Custom Switching ICs")(type "KiCad")(uri "${KIPRJMOD}/Custom Switching ICs.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom Transformer")(type "KiCad")(uri "${KIPRJMOD}/Custom Transformer.kicad_sym")(options "")(descr ""))
+  (lib (name "Custom MOSFETs")(type "KiCad")(uri "${KIPRJMOD}/Custom MOSFETs.kicad_sym")(options "")(descr ""))
+)
