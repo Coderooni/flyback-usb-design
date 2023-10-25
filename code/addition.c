@@ -6,7 +6,7 @@ int add(int a, int d) {
     return a + d;
 }
 
-// Subtract
+// Subtract - add complete comments to this dey
 int sub(int a, int b) {
     return a - b;
 }
